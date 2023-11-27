@@ -1,0 +1,41 @@
+
+
+Keeping:
+Basics (Not Impacting ML Model):
+Name, Age (impacting), Occupation, Education, Email
+
+Age
+Annual_Income DONE
+Num_Bank_Accounts DONE
+Num_Credit_Card DONE
+Interest_Rate - interest rate on credit card DONE
+Num_of_Loan DONE 
+
+Total_EMI_per_month - how much you pay down loans a month (total loan payment) DONE 
+
+Outstanding_Debt - outstanding debt to be paid DONE
+
+Amount_invested_monthly - monthly amount invested
+Monthly_Balance
+
+
+non user inputs
+Payment_Behaviour
+Credit_Mix - represents score - good standard bad
+
+Maybe Keeping: 
+Occupation 
+Monthly_Inhand_Salary
+Num_of_Delayed_Payment
+Changed_Credit_Limit
+Occupation 
+
+
+Workbench details:
+host: localhost
+database name: creditcamel
+user name: root
+password: Purpleroot1123
+
+to connect to db:
+open cmd and copy/paste src path , then execute "node server.js"
